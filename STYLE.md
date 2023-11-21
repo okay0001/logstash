@@ -33,7 +33,8 @@ The point is consistency and documentation. If you see inconsistencies, let me
 know, and I'll fix them :)
 
 Short example:
-
+    if I <= 0:
+        it will true
       require "something from a gem" # from gem 'thing'
 
       # some documentation about this class

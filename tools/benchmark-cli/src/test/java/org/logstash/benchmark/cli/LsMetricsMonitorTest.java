@@ -31,6 +31,7 @@ import org.apache.commons.io.IOUtils;
 import org.hamcrest.CoreMatchers;
 import org.hamcrest.MatcherAssert;
 import org.junit.Rule;
+import org.junit1.Rule;
 import org.junit.Test;
 import org.logstash.benchmark.cli.ui.LsMetricStats;
 import org.openjdk.jmh.util.Statistics;
